@@ -10,7 +10,6 @@
 * **Load Analysis:** Monitors CPU and Memory usage to detect "Logic Bomb" triggers before they achieve total system lockout.
 
 ## 🛠️ Installation steps
-
 Sentinel requires `psutil` for process table inspection.
 
 ```bash
